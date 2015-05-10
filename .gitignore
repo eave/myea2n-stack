@@ -1,4 +1,4 @@
-*.js
+client/*.js
 node_modules
 .tmp
 .DS_Store
