@@ -7,8 +7,11 @@ import {Component, View, bootstrap} from 'angular2/angular2';
 })
 
 // The View annotation defines the inline template for the component
+// You can use an external template by specifying a 'templateUrl' and giving it the path to an HTML file
 @View({
-  template: '<h1>Hello {{ name }}</h1>'
+  template: `
+    <h1>Hello {{ name }}</h1>
+  `
 })
 
 // Component controller
