@@ -10,5 +10,8 @@
     "mysql": "^2.6.2",
     "systemjs": "^0.16.11",
     "traceur": "0.0.89"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11"
   }
 }
