@@ -3,3 +3,5 @@ node_modules
 .tmp
 .DS_Store
 server/routes.js
+client/lib/system.js
+client/lib/traceur-runtime

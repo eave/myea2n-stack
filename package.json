@@ -3,13 +3,10 @@
   "author": "eave",
   "license": "MIT",
   "dependencies": {
-    "angular2": "^2.0.0-alpha.22",
     "body-parser": "^1.12.3",
     "express": "^4.12.3",
     "express-session": "^1.11.1",
-    "mysql": "^2.6.2",
-    "systemjs": "^0.16.11",
-    "traceur": "0.0.89"
+    "mysql": "^2.6.2"
   },
   "devDependencies": {
     "gulp": "^3.8.11"

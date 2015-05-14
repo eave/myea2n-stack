@@ -1,0 +1,22 @@
+{
+  "name": "myea2n-stack",
+  "main": "index.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/eave/myea2n-stack",
+  "description": "MySQL, Express, Angular 2.0, and Node.",
+  "authors": [
+    "@eave"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "traceur-runtime": "~0.0.89",
+    "system.js": "~0.16.11"
+  }
+}
