@@ -9,6 +9,7 @@
     "mysql": "^2.6.2"
   },
   "devDependencies": {
+    "browser-sync": "^2.7.1",
     "gulp": "^3.8.11"
   }
 }
